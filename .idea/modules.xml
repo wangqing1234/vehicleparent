@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vehiclecalc/vehiclecalc.iml" filepath="$PROJECT_DIR$/vehiclecalc/vehiclecalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehiclecommon/vehiclecommon.iml" filepath="$PROJECT_DIR$/vehiclecommon/vehiclecommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicleparent.iml" filepath="$PROJECT_DIR$/vehicleparent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vehicleweb/vehicleweb.iml" filepath="$PROJECT_DIR$/vehicleweb/vehicleweb.iml" />
+    </modules>
+  </component>
+</project>
