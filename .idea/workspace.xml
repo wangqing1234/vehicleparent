@@ -2,50 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be26e311-bc6e-466b-a967-f77ff1be3d86" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/CommonUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/PropertiesUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/conf/ConfigurationManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/conf/Constants.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/redis/DateUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/redis/JedisUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehiclecommon/src/main/resources/default.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/VehicleWebApplication.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/config/WebSocketConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/AllVehicleController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/IndustryCategoryController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/RealTimeStatController.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IIndustryCategoryService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IRealTimeStatService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IVehicleService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/IndustryCategoryServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/RealTimeStatServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/VehicleServerImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/application.yaml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/css/common.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/css/map.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/images/info-img-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/images/info-img-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/images/info-img-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/images/info-img-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/images/loading.gif" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/images/map_bg.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/china.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/common.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/echarts.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/jquery-2.1.1.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-all-vehicles.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-charging-time-peak.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-industry-category.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-month-mileage-top.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-real-time-stat.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-vehicle-category.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-vehicle-part-map.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-warn-charge-top.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-warn-vehicle-top.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vehicleweb/src/main/resources/static/test-eacharts.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/vehiclecalc/target/" />
@@ -66,81 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="IVehicleService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IVehicleService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IIndustryCategoryService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IIndustryCategoryService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RealTimeStatController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/RealTimeStatController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-634">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="351">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="VehicleWebApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/VehicleWebApplication.java">
+      <file leaf-file-name="IndustryCategoryServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/IndustryCategoryServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="203">
+              <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vehicleweb.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/vehicleweb.iml">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/resources/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1782">
+            <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-169">
-              <caret line="28" column="42" lean-forward="false" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1971">
-              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IRealTimeStatService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IRealTimeStatService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -149,18 +55,68 @@
       <file leaf-file-name="IndustryCategoryController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/IndustryCategoryController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-634">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="209">
+              <caret line="49" column="77" lean-forward="false" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AllVehicleController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/AllVehicleController.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+            <state relative-caret-position="398">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSocketConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/config/WebSocketConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IRealTimeStatService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IRealTimeStatService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RealTimeStatServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/RealTimeStatServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-27">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommonUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/CommonUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setData-real-time-stat.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-real-time-stat.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -216,7 +172,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="316" />
+    <option name="x" value="661" />
+    <option name="y" value="40" />
     <option name="width" value="1585" />
     <option name="height" value="1030" />
   </component>
@@ -334,17 +291,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
               <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
-              <item name="vehiclecalc" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
@@ -380,6 +333,32 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
+              <item name="vehiclecommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
+              <item name="vehiclecommon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
+              <item name="vehiclecommon" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
@@ -452,6 +431,17 @@
               <item name="vehicleweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicle" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicleweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -468,16 +458,36 @@
               <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
               <item name="vehicleweb" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicleweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="setData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vehicleparent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vehicleparent" type="462c0819:PsiDirectoryNode" />
+              <item name="vehicleweb" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -651,7 +661,9 @@
       <workItem from="1594072356747" duration="841000" />
       <workItem from="1594116835361" duration="2537000" />
       <workItem from="1594119414123" duration="909000" />
-      <workItem from="1594122196345" duration="1576000" />
+      <workItem from="1594122196345" duration="3011000" />
+      <workItem from="1594125230757" duration="14000" />
+      <workItem from="1594125265827" duration="882000" />
     </task>
     <task id="LOCAL-00001" summary="七月六号作业">
       <created>1594050252705</created>
@@ -681,17 +693,24 @@
       <option name="project" value="LOCAL" />
       <updated>1594072676425</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="七月六号作业">
+      <created>1594123828972</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594123828972</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15279000" />
+    <option name="totallyTimeSpent" value="17610000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="316" y="0" width="1585" height="1030" extended-state="0" />
+    <frame x="661" y="40" width="1585" height="1030" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.59101385" sideWeight="0.11324376" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41589862" sideWeight="0.30326295" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -699,7 +718,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.59101385" sideWeight="0.88675624" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40437788" sideWeight="0.88675624" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3599004" sideWeight="0.6240929" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -707,10 +726,10 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37442395" sideWeight="0.70017636" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41589862" sideWeight="0.69673705" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27895072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4081894" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -754,28 +773,11 @@
           </properties>
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="13" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/vehiclecalc/src/main/java/com/offcn/bigdatawq/vehicle/entity/VehicleLog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4617">
-          <caret line="253" column="15" lean-forward="true" selection-start-line="253" selection-start-column="15" selection-end-line="253" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehiclecalc/src/main/java/com/offcn/bigdatawq/vehicle/jobs/RealTimeVehicleStatJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vehiclecalc/src/main/java/com/offcn/bigdatawq/vehicle/entity/VehicleLog.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
@@ -803,7 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +853,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,7 +901,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,20 +986,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/resources/static/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-243">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/IndustryCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/redis/JedisUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1011,18 +996,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/RealTimeStatServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/VehicleServerImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="103">
           <caret line="25" column="10" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1037,6 +1015,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
           <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1044,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1060,15 +1038,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/CommonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1080,42 +1049,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/config/WebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/IndustryCategoryController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-634">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/RealTimeStatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-634">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IIndustryCategoryService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" column="17" lean-forward="false" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IRealTimeStatService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
           <folding />
         </state>
       </provider>
@@ -1140,7 +1077,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1782">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1152,18 +1088,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/AllVehicleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/IRealTimeStatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/RealTimeStatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehiclecommon/src/main/java/com/offcn/bigdata/vehicle/common/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/RealTimeStatServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1971">
+        <state relative-caret-position="398">
           <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/AllVehicleController.java">
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/resources/static/js/setData/setData-real-time-stat.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="34" column="58" lean-forward="true" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+        <state relative-caret-position="675">
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/controller/IndustryCategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="49" column="77" lean-forward="false" selection-start-line="49" selection-start-column="77" selection-end-line="49" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vehicleweb/src/main/java/com/offcn/bigdata/vehicle/service/impl/IndustryCategoryServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
           <folding />
         </state>
       </provider>
